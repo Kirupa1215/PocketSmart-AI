@@ -2,6 +2,9 @@
 
 PocketSmart AI is a complete FastAPI web app for budget-aware home, party, and jewelry planning. It supports local fallback recommendations by default and Gemini-powered structured recommendations when configured. It stores accounts and planning history in SQLite.
 
+## Demo Link
+https://drive.google.com/file/d/1d3IBOTEeFH8cMDQPnW_Xlz5KIba2oylg/view?usp=sharing
+
 ## Quick start in VS Code
 
 1. Open this folder in VS Code and open its integrated terminal.
